@@ -1,0 +1,10 @@
+=== RINGKASAN HASIL EVALUASI MODEL PLSR NANAS ===
+File Dataset          : C:\laragon\www\penelitian-nanas\MODEL\dataset_per_mode\dataset_M3.xlsx
+Sumber Referensi      : Internal (C:\laragon\www\penelitian-nanas\MODEL\dataset_per_mode\dataset_M3.xlsx)
+Jumlah Titik Sampel   : 276 titik biologis (Atas/Tengah/Bawah)
+Komponen Laten Terbaik: 1
+RMSE Cross-Validation : 2.2445 °Brix
+R² Kalibrasi (Train)  : 0.0137
+RMSEC (Train)         : 2.1501 °Brix
+R² Validasi  (Test)   : -0.0649
+RMSEP (Test)          : 2.0593 °Brix
